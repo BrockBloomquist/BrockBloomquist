@@ -14,3 +14,7 @@ Currently I am employed as a Quality Assurance Software Engineer Intern at Skill
 ### Planned Projects
 
 - Youtube Playlist Downloader (Python)
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brockbloomquist&show_icons=true&theme=synthwave" />
+</a></p>
