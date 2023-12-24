@@ -11,9 +11,9 @@ Currently I am employed as a Quality Assurance Software Engineer Intern at Skill
 - Website : <https://brockabloomquist.com>
 - LinkedIn : [Brock Bloomquist](https://www.linkedin.com/in/brockbloomquist/)
 
-### Planned Projects
+### Projects Currently in Development
 
-- Youtube Playlist Downloader (Python)
+- Customer Support App
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brockbloomquist&show_icons=true&theme=synthwave" />
