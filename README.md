@@ -3,7 +3,9 @@
 My name is Brock Bloomquist and I graduated from Southwestern University in May 2023 with a
 Bachelor of Arts in Computer Science.
 
-Currently I am employed as a Quality Assurance Software Engineer Intern at SkillsEngine!
+From August to December 2023 I was a Quality Assurance Software Engineer for SkillsEngine! (More on my LinkedIn)
+
+Currently, I am learning new Web Development skills to expand my expertise and career!
 
 ### 📫 How to contact me:
 
