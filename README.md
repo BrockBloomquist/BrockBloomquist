@@ -15,7 +15,7 @@ Currently, I am learning new Web Development skills to expand my expertise and c
 
 ### Projects Currently in Development
 
-- Customer Support App
+- Discord Clone NextJS
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brockbloomquist&show_icons=true&theme=synthwave" />
