@@ -15,7 +15,8 @@ Currently, I am learning new Web Development skills to expand my expertise and c
 
 ### Projects Currently in Development
 
-- Discord Clone NextJS
+- Alpha Blog : a Web Application with Authentication used to write and post Articles
+- MessageMe : a Chat App
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brockbloomquist&show_icons=true&theme=synthwave" />
