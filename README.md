@@ -3,14 +3,14 @@
 My name is Brock Bloomquist and I graduated from Southwestern University in May 2023 with a
 Bachelor of Arts in Computer Science.
 
-From August to December 2023 I was a Quality Assurance Engineer Intern for SkillsEngine! (More on my LinkedIn)
+From August to December 2023 I was a Quality Assurance Engineer Intern for SkillsEngine!
 
-Currently, I am learning new Web Development skills-specifically Ruby on Rails in order to increase my knowledge and skills.
+Currently, I am learning new Sofware Engineering skills-specifically Ruby on Rails in order to increase my knowledge and skills.
 
 ### 📫 How to contact me:
 
 - Email : [brockbloomquist1@gmail.com](brockbloomquist1@gmail.com)
-- Website : <https://brockabloomquist.com>
+- Portfolio : <https://brockabloomquist.com>
 - LinkedIn : [Brock Bloomquist](https://www.linkedin.com/in/brockbloomquist/)
 
 ### Projects Currently in Development
