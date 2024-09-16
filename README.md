@@ -11,7 +11,7 @@ Currently, I am learning new Sofware Engineering skills-specifically Ruby on Rai
 
 ### 📫 How to contact me:
 
-- Email : [brockbloomquist1@gmail.com](brockbloomquist1@gmail.com)
+- Email : [brockbloomquist1@gmail.com](brockbloomquistdev@gmail.com)
 - Portfolio : <https://brockabloomquist.com>
 - LinkedIn : [Brock Bloomquist](https://www.linkedin.com/in/brockbloomquist/)
 
